@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repo is not in use and has been deprecated. It will eventually be deleted.
+
 # React Native Notifications [![Build Status](https://travis-ci.org/wix/react-native-notifications.svg)](https://travis-ci.org/wix/react-native-notifications)
 
 Handle all the aspects of push notifications for your app, including remote and local notifications, interactive notifications, silent notifications, and more.
